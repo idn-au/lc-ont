@@ -1,0 +1,22 @@
+= Local Contexts Ontology
+
+An ontology for assigning Traditional Knowledge and Biocultural labels to things. 
+
+The 'things' we are targetting in this ontology are catalogued, according to https://www.w3.org/TR/vocab-dcat/[DCAT].
+
+== License & Rights
+
+The contents of this repository is licensed under Creative Commons 4.0 International. See the LICENSE file in the repository for details.
+
+== Contacts
+
+Initial development of this work is being undertaken by the following, for the Indigenous Data Network:
+
+**Nicholas J. Car** +
+*Data Systems Architect* +
+SURROUND Australia Pty Ltd. +  
+<nicholas.car@surroundaustralia.com>  
+
+**Sandra Silcot** +
+*Analyst* +
+Indigenous Data Network +
