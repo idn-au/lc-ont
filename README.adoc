@@ -8,15 +8,21 @@ The 'things' we are targetting in this ontology are catalogued, according to htt
 
 The contents of this repository is licensed under Creative Commons 4.0 International. See the LICENSE file in the repository for details.
 
+
 == Contacts
 
-Initial development of this work is being undertaken by the following, for the Indigenous Data Network:
+For technical enquiries:
 
-**Nicholas J. Car** +
-*Data Systems Architect* +
-SURROUND Australia Pty Ltd. +  
-<nicholas.car@surroundaustralia.com>  
-
-**Sandra Silcot** +
-*Analyst* +
+**Jamie Feiss** +
+*Data Infrastructure Developer* +
 Indigenous Data Network +
+University of Melbourne +
+jamie.feiss@unimelb.edu.au
+
+For policy:
+
+**Levi Murray** +
+*Strategic Data Manager* +
+Indigenous Data Network +
+University of Melbourne +
+levi.murray@unimelb.edu.au
