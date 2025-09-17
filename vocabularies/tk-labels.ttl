@@ -12,7 +12,7 @@ cs:
     a skos:ConceptScheme ;
     dcterms:created "2022-06-22"^^xsd:date ;
     dcterms:creator <https://linked.data.gov.au/org/idn> ;
-    dcterms:identifier "lcl"^^xsd:token ;
+    sdo:identifier "lcl"^^xsd:token ;
     dcterms:modified "2022-06-22"^^xsd:date ;
     dcterms:provenance "This vocabulary was generated from the https://localcontexts.org website's content" ;
     dcterms:publisher <https://linked.data.gov.au/org/idn> ;
