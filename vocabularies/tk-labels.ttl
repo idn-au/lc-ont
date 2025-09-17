@@ -51,6 +51,7 @@ tk:attribution
     dcterms:source "https://localcontexts.org/label/tk-attribution/"^^xsd:anyURI ;
     rdfs:isDefinedBy cs: ;
     skos:definition "This Label should be used when you would like anyone who uses this material to know who the correct sources, custodians, or owners are. This is especially useful if this material has been wrongly attributed or important names of the people involved in making this material or safeguarding this material, are missing. This Label allows you to correct historical mistakes in terms of naming and acknowledging the legitimate authorities for this material. This Label asks for future users to also apply the correct names and attribution."@en ;
+    skos:example "This Label is being used to correct historical mistakes or exclusions pertaining to this material. This is especially in relation to the names of the people involved in performing or making this work and/or correctly naming the community from which it originally derives. As a user you are being asked to also apply the correct attribution in any future use of this work." ;
     skos:inScheme cs: ;
     skos:notation "TK A" ;
     skos:prefLabel "Attribution"@en ;
