@@ -15,6 +15,8 @@ cs:
     sdo:identifier "lcl"^^xsd:token ;
     dcterms:modified "2022-06-22"^^xsd:date ;
     dcterms:provenance "This vocabulary was generated from the https://localcontexts.org website's content" ;
+    skos:historyNote "This vocabulary is replaced under the IDN namespace"@en ;
+    dcterms:isReplacedBy <https://data.idnau.org/pid/vocab/tk-labels> ;
     dcterms:publisher <https://linked.data.gov.au/org/idn> ;
     dcterms:source "https://localcontexts.org"^^xsd:anyURI ;
     owl:versionInfo "1.0"^^xsd:string ;
