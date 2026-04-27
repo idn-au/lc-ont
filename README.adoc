@@ -1,28 +1,7 @@
-= Local Contexts Ontology
+# Repository moved
 
-An ontology for assigning Traditional Knowledge and Biocultural labels to things. 
+This repository has been superseded by:
 
-The 'things' we are targetting in this ontology are catalogued, according to https://www.w3.org/TR/vocab-dcat/[DCAT].
+https://github.com/idn-au/lc-vocs
 
-== License & Rights
-
-The contents of this repository is licensed under Creative Commons 4.0 International. See the LICENSE file in the repository for details.
-
-
-== Contacts
-
-For technical enquiries:
-
-**Jamie Feiss** +
-*Data Infrastructure Developer* +
-Indigenous Data Network +
-University of Melbourne +
-jamie.feiss@unimelb.edu.au
-
-For policy:
-
-**Levi Murray** +
-*Strategic Data Manager* +
-Indigenous Data Network +
-University of Melbourne +
-levi.murray@unimelb.edu.au
+Please update bookmarks, remotes, and links.
